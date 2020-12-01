@@ -1,0 +1,9 @@
+.parallax{
+    background-image: url('https://media.bitdegree.org/storage/media/images/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg');
+
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: 'center';
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
