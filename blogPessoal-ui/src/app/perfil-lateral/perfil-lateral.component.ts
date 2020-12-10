@@ -7,9 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PerfilLateralComponent implements OnInit {
 
+  nome: string;
+  nome2: string = 'Guilherme Melo';
+
+
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
+    this.nome = 'Gui Melo'
   }
 
 }
