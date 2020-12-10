@@ -7,3 +7,12 @@
     background-repeat: no-repeat;
     background-size: cover; 
 }
+.parallax2{
+    background-image: url('https://i.pinimg.com/originals/97/49/7d/97497dc64fc934b2d7f8571e820e1b9c.png');
+
+    min-height: 3 00px;
+    background-attachment: fixed;
+    background-position: 'center';
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
